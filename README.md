@@ -1,2 +1,2 @@
 # Chat-bot
-Chat-bot for foreigners learning Russian
+Чат-бот для иностранцев, изучающих русский язык
